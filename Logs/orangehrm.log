@@ -1,0 +1,5 @@
+2025-07-27 14:48:34,698 : INFO : test_verify_url_01 : test case test_verify_url_01 is started
+2025-07-27 14:48:34,699 : INFO : test_verify_url_01 : going to base url:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-07-27 14:48:38,479 : INFO : test_verify_url_01 : printing title of the page
+2025-07-27 14:48:38,500 : INFO : test_verify_url_01 : verifying url of orangehrm:OrangeHRM
+2025-07-27 14:48:38,505 : INFO : test_verify_url_01 : taking screenshots of pass testcase
