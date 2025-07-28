@@ -1,1 +1,1 @@
-pytest -v --browser chrome
+pytest -v --html=Reports/My_report_orange.html --browser chrome --alluredir="allure-result"
